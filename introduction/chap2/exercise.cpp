@@ -1,6 +1,5 @@
 #include <cstdio>
 #include <cmath>
-#include <iostream>
 
 void daffodil()
 {
