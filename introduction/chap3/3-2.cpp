@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 
-void molarMass()
+void molar_mass()
 {
 	static const double massC = 12.01;
 	static const double massH = 1.008;
@@ -50,6 +50,6 @@ void molarMass()
 
 int main()
 {
-	molarMass();
+	molar_mass();
 	return 0;
 }
